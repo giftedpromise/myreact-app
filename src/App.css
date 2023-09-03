@@ -24,6 +24,12 @@
   border-radius: 5px;
 }
 
+small {
+  font-size: 12px;
+  color: white;
+  margin-top: 50px;
+}
+
 .App-link {
   color: #61dafb;
 }

@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Search from "./Search";
 import Weather from "./Weather";
@@ -15,12 +14,17 @@ function App() {
 
         <small>
           <a
-            href="https://github.com/wecodeschool/react-weather"
+            rel="noreferrer"
+            href="https://github.com/giftedpromise/myreact-app"
             target="_blank"
           >
             Open-source code
           </a>
-          , by <a href="https://www.matdelac.io">Matt Delac</a> from
+          , by{" "}
+          <a href="https://github.com/giftedpromise/myreact-app">
+            Promise Nwankwo
+          </a>{" "}
+          from
           <a href="https://shecodes.io/">She Codes</a>
         </small>
       </header>
